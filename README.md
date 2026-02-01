@@ -12,4 +12,4 @@
 • C Programming<br>
 • Basics of Game Development<br>
 • Git & GitHub<br>
-[![Shristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shristi-cse&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Shristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shristi-cse&show_icons=true)](https://github.com/shristi-cse/github-readme-stats&show_icons=true)
