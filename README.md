@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🌸 Hi, I'm Shristi!
 
-<!--
-**shristi-cse/shristi-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech CSE student <br>
+💻 Learning Web Development & Game Development<br>
+🌱 Exploring programming one step at a time<br>
+🎨 Interested in UI, creativity & building cool things<br>
+📍 India<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning<br>
+• HTML, CSS<br>
+• JavaScript (slowly but surely 😅)<br>
+• C Programming<br>
+• Basics of Game Development<br>
+• Git & GitHub<br>
+[![Shristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shristi-cse&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
